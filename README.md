@@ -86,8 +86,6 @@ Architecture components include:
 
 The model reconstructs masked gene expression values while integrating prior biological knowledge encoded in gene embeddings derived from the fine-tuned Llama model.
 
-<img width="468" height="649" alt="image" src="https://github.com/user-attachments/assets/d8ae92d1-ba0e-4e8f-9df9-06a0efd8d557" />
-
 
 # Contact information
 
