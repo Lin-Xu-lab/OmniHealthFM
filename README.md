@@ -6,7 +6,7 @@ Pan-Disease Prediction for Diagnosis, Response, and Prognosis with A Knowledge-D
 OmniHealthFM is a knowledge-guided foundation model trained on bulk transcriptomic data from 344,653 individuals. It integrates gene expression profiles with curated biological knowledge using Llama 3–derived gene embeddings and a cross-attention framework.
 
 The model produces generalizable transcriptomic representations and outperforms existing methods across clinical tasks such as diagnosis, prognosis, and treatment response prediction.
-![Fig](/Image/model_diagram.pdf) 
+![Fig](/Image/model_diagram.png) 
 # Input data
  
 ```
